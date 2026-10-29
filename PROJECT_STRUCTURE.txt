@@ -1,0 +1,24 @@
+﻿TP1 Project Structure - Complete Setup
+
+Folder PATH listing for volume OS
+Volume serial number is 8C5F-CA93
+C:.
+|   .env.example
+|   a2_api_rest.py
+|   a3_sdk_ollama.py
+|   a4_messages.py
+|   a5_parametres.py
+|   a6_comparaison.py
+|   a7_groq.py
+|   check_environment.py
+|   GUIDE_TP1.md
+|   INDEX.md
+|   PROJECT_STRUCTURE.txt
+|   QUICK_START.md
+|   README.md
+|   REPONSES_AIDE.md
+|   SUMMARY.md
+|   
+\---.vscode
+        settings.json
+        
